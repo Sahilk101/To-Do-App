@@ -17,10 +17,10 @@ Features
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: 
 
 ```bash
-git clone 'repository link'
+git clone 'git@github.com:Sahilk101/To-Do-App.git'
 
 npm install -     Install dependencies
 
@@ -29,7 +29,7 @@ DATABASE_URL="postgresql://user:password@localhost:5432/todo"
 JWT_SECRET='secret'
 
 
-npm dev - start server
+npm run dev - start server
 
 
 # API Endpoints
